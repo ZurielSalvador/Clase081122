@@ -72,7 +72,7 @@ app.listen(9090, function() {
 
 
 
-/* Codigo /
+/* Codigo propuesto/
 
 
 var express = require('express');
@@ -109,5 +109,5 @@ app.listen(9000, function() {
     console.log('Servidor corriendo en el puerto 9000');
 });
 
-
+*/
 
